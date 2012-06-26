@@ -2,7 +2,7 @@
 	symlinks = false
 	autocrlf = true
 [color]
-	Status = auto
+	status = auto
 	diff = auto
 	branch = auto
 	interactive = true
